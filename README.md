@@ -1,3 +1,4 @@
+All credit goes to Eliran Wong for creating this.
 # Greek-Bible-Study
 Bible Study in Greek
 Open Greek New Testament is launched at our NEW iOS / iPhone / iPad / Android / Chrome OS / Fire Tablet apps
